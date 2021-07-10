@@ -51,16 +51,12 @@ https://skai-live.siliconweb.com/media/cambria4/index.m3u8
 https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
 #EXTINF:171 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="Euronews Greek" tvg-logo="https://i.imgur.com/4EvDoaG.png",EURONEWS
 https://www.dailymotion.com/cdn/live/video/x2j7kha.m3u8?sec=u55P0x2RA3d_amtYWZhnbDpYB_WtZEH7VyzAWPC1fMDvEuWsCmNgB9T8XvikCTX5ZyvpBtGo9Fjh3ta6FZboFg
-#EXTINF:171 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="Euronews Greek" tvg-logo="https://i.imgur.com/4EvDoaG.png",EURONEWS
-https://stream-02.ix7.dailymotion.com/sec(ZHW-kyIDNbzrgtZQEivCa8kxR60K8I0EWDaeQi5HgQk)/dm/3/x2j7kha/s/live-0.m3u8#cell=lcore
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-name="RIK Sat" tvg-logo="http://greektv.pbworks.com/w/file/fetch/52186869/RikSat.png",RIK SAT
 http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
 #EXTINF:983 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="ONE Channel" tvg-logo="https://i.imgur.com/yHiFVKK.jpg",ONE TV HD
 https://streaming.onetv.gr/show/onetv_hd720/index.m3u8
 #EXTINF:5108 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="Star Κεντρικής Ελλάδας" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020317/STAR_K.E.png",STAR K.E.
 https://www.dailymotion.com/cdn/live/video/xqjey2.m3u8?sec=d8jnL8Yq9T2gzOOVqJeTMlYWoh1PhntI6akB9kGEGiTNrCm0-9y_6-tOyh06BssicslTPZkEs8W0aJiX7Lz1qg
-#EXTINF:5108 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="Star Κεντρικής Ελλάδας" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020317/STAR_K.E.png",STAR K.E.
-https://stream-07.dc3.dailymotion.com/sec(kIyZk1TvJ__htJbCTbJjvFbEv5xMuV-qIX-ZLiygIg0)/dm/3/xqjey2/s/live-0.m3u8#cell=lcore
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/ErFj6rR.png",XPLORE
 http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/hzaXhNV.png",NG TV
