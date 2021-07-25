@@ -18,9 +18,9 @@ http://ert-live-bcbs15228.siliconweb.com/media/ert_3/ert_3_2Mbps.m3u8
 #EXTINF:-1 group-title="Ελληνικα" tvg-name="RIK Sat" tvg-logo="http://greektv.pbworks.com/w/file/fetch/52186869/RikSat.png",RIK SAT
 http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
 #EXTINF:-1 group-title="Ελληνικα" tvg-name="Euronews Greek" tvg-logo="https://i.imgur.com/4EvDoaG.png",EURONEWS
-https://stream-08.ix7.dailymotion.com/sec(ZHW-kyIDNbzrgtZQEivCa8kxR60K8I0EWDaeQi5HgQk)/dm/3/x2j7kha/s/live-3.m3u8
+https://stream-02.dc3.dailymotion.com/sec(ZHW-kyIDNbzrgtZQEivCa9eDQbiRmb9ORqUYkDK5WBM)/dm/3/x2j7kha/s/live-0.m3u8
 #EXTINF:-1 group-title="Ελληνικα" tvg-name="Star Κεντρικής Ελλάδας" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020317/STAR_K.E.png",STAR K.E.
-https://stream-05.ix7.dailymotion.com/sec(kIyZk1TvJ__htJbCTbJjvFbEv5xMuV-qIX-ZLiygIg0)/dm/3/xqjey2/s/live-3.m3u8
+https://stream-09.ix7.dailymotion.com/sec(kIyZk1TvJ__htJbCTbJjvCWb_Hxt5B2gQfBw82kAYSo)/dm/3/xqjey2/s/live-0.m3u8
 #EXTINF:-1 group-title="Ελληνικα" tvg-name="ONE Channel" tvg-logo="https://i.imgur.com/yHiFVKK.jpg",ONE TV HD
 https://streaming.onetv.gr/show/onetv_hd720/index.m3u8
 #EXTINF:-1 group-title="Ελληνικα" tvg-logo="https://i.imgur.com/ErFj6rR.png",XPLORE
@@ -55,6 +55,7 @@ https://55507e0501d25.streamlock.net/live/greenparrot2.stream/playlist.m3u8
 https://videos3.earthcam.com/fecnetwork/9974.flv/chunklist_w1802587375.m3u8
 #EXTINF:-1 group-title="Webcams" tvg-logo="",Maiami TV
 https://gintna100.tulix.tv/gin_live/miamitv/e257a59c83969ba245ffd0ee6a829e44/60edb4f3/index.m3u8
+http://server.miamitvchannel.com/chunklist_w368850518_b2592000.m3u8
 #EXTINF:-1 group-title="Ελληνικα" tvg-name="digea.tv100.gr" tvg-logo="https://i.imgur.com/n23IeFx.png",TV 100
 https://live.fm100.gr/hls/tv100/index.m3u8
 #EXTINF:-1 group-title="Ελληνικα" tvg-name="digea.kontra.gr" tvg-logo="https://i.imgur.com/OyRQlpd.png",KONTRA
