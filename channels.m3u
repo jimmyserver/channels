@@ -18,9 +18,9 @@ http://ert-live-bcbs15228.siliconweb.com/media/ert_3/ert_3_2Mbps.m3u8
 #EXTINF:-1 group-title="Ελληνικα" tvg-name="RIK Sat" tvg-logo="http://greektv.pbworks.com/w/file/fetch/52186869/RikSat.png",RIK SAT
 http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
 #EXTINF:-1 group-title="Ελληνικα" tvg-name="Euronews Greek" tvg-logo="https://i.imgur.com/4EvDoaG.png",EURONEWS
-https://stream-02.dc3.dailymotion.com/sec(ZHW-kyIDNbzrgtZQEivCa9eDQbiRmb9ORqUYkDK5WBM)/dm/3/x2j7kha/s/live-0.m3u8
+https://stream-07.dc3.dailymotion.com/sec(ZHW-kyIDNbzrgtZQEivCa9eDQbiRmb9ORqUYkDK5WBM)/dm/3/x2j7kha/s/live-3.m3u8
 #EXTINF:-1 group-title="Ελληνικα" tvg-name="Star Κεντρικής Ελλάδας" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020317/STAR_K.E.png",STAR K.E.
-https://stream-09.ix7.dailymotion.com/sec(kIyZk1TvJ__htJbCTbJjvCWb_Hxt5B2gQfBw82kAYSo)/dm/3/xqjey2/s/live-0.m3u8
+https://stream-02.ix7.dailymotion.com/sec(kIyZk1TvJ__htJbCTbJjvCWb_Hxt5B2gQfBw82kAYSo)/dm/3/xqjey2/s/live-3.m3u8
 #EXTINF:-1 group-title="Ελληνικα" tvg-name="ONE Channel" tvg-logo="https://i.imgur.com/yHiFVKK.jpg",ONE TV HD
 https://streaming.onetv.gr/show/onetv_hd720/index.m3u8
 #EXTINF:-1 group-title="Ελληνικα" tvg-logo="https://i.imgur.com/ErFj6rR.png",XPLORE
@@ -163,7 +163,7 @@ https://dev.aftermind.xyz/hls/unitrust/citychannel/tracks-v1a1/mono.m3u8?token=8
 #EXTINF:-1 group-title="Ελληνικα" tvg-name="" tvg-logo="",IONIA TV
 https://video-weaver.mil02.hls.ttvnw.net/v1/playlist/CsAFYoY1sM4LQ3ZRm2-BC-EzbR-DHfbHgNzzgX4NqybeN8R-WnxVvneZvePR_9oBTlVFf28-Zu4yrA4yRNFG9-txsvm8H17T6-MdJDdvDzJpun1pewe3bbzbjWDWnZZiQBRNfy_itMrXEKNY8Z1EEY09csqsfBM_nNGdKfobI_gZziOQJmXUax4NMjJtsymJGePmmPIjwqL0J7G20paqWyHICsKop0Wqbh3jcx15BDghw2ERN-nvC4aDD1f_PEgvejGFewg1NJVl4KzIuuFDS6JuNgVhU1Q5p67mxmOWLdrU9P2WB7RLkhZ-lBwc-r9wccvaYVEtXDOxuJ5NoYE4RzXPu31CiYy1ZimjaD2flbR6vDdsgdpVmxB_toe7cgaOzsPxeQWENsF_SvvoX51xBpVo7p5m0YkdE4iVoJkpFu541HVyzUDzAxpiRRi0rakWi3RkYhh1Gddvtj2TE4YT2Rv3um0KPlq-ictOV7JqD7JkhjAek4n1v0hWygf8A9JyEuVPEoLRsz7hAJVNn68ixIHd7I4gAyDd0ycPwzZmQL-H5fycUEhQL79L-1X7q4dkYCOd0r5fRuGn84TbCrGJapMorGo0kEYiOrGeW3R3YYqgYvrEnMOfubVbC1MJOHGAoetPz9LjQC9JXHpF7nuLuvS-dDFk4dJXRcZMGlaGxbLSXMPavrpEV0GDm8FTLgDnvMgvpa9cGDhOmlagjOn8rI7jdHO7N3vtiM17TU1TJSCca1WP9CwGdZxLfwMXLGL8R4cKopJTSwLF_5C1lsAyZziXNwo3tFsRJM_URtePfOamWlhF1Xfgo6orIbyI_-HNTrkiBXnQ3dVAg-Nu_2VQocrc6whHjSAA929-c3m8YtQRfi6hIyHcyTgFNMl0KFXAHl90wpyhH5dFC_dof7S0Hqn6ak7OPbewIgRkRRKNh4K-yYcSEJl6yXbjaWqiebkLSczoBMUaDGgVV6y5XVY8GKHlhQ.m3u8
 #EXTINF:-1 group-title="Ελληνικα" tvg-name="" tvg-logo="",FIGARO
-https://stream-11.ix7.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmrkn9dmVYlZr0nImi6s0qcU)/dm/3/x7x0v7j/s/live-1.m3u8
+https://stream-06.dc3.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmhMl6GXlAI2PmrPhw1db3XU)/dm/3/x7x0v7j/s/live-1.m3u8
 #EXTINF:-1 group-title="Ελληνικα" tvg-logo="",E TV
 https://usher.ttvnw.net/api/channel/hls/etvhellas.m3u8
 #EXTINF:-1 group-title="Ελληνικα" tvg-logo="https://i.imgur.com/SgiGEUK.png",ERT SPORTS 1
