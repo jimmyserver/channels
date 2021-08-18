@@ -182,3 +182,5 @@ https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_4/ert_sports_4_3Mbps.
 https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_5/ert_sports_5_3Mbps.m3u8
 #EXTINF:-1 group-title="Ελληνικα" tvg-name="Extra Greece" tvg-logo="https://i.imgur.com/v9tPr4k.jpg",EXTRA CHANNEL
 https://edge1.mystream.gr/video434018/live/playlist.m3u8
+#EXTINF:-1 group-title="Ελληνικα" tvg-logo="",match HD
+http:\\188.113.190.12\167\video.m3u8
