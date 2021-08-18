@@ -28,15 +28,17 @@ http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8
 #EXTINF:-1 group-title="Ελληνικα" tvg-logo="https://i.imgur.com/hzaXhNV.png",NG TV
 https://live.streams.ovh/NGradio/NGradio/playlist.m3u8
 #EXTINF:-1 group-title="Webcams" tvg-logo="",Sloppy Joes Stage Cam
-https://use01-smr03-relay.ozolio.com/hls-live/relay01.xnbwdi1.fd0.sm1.av2.at0.sh2.rt4626.rc0.basic.stream/playlist.m3u8
+https://sloppyjoes.com/cam_lp/
 #EXTINF:-1 group-title="Webcams" tvg-logo="",Sloppy Joes Bar Cam
-https://use01-smr03-relay.ozolio.com/hls-live/_definst_/relay01.ehyzdpo.fd0.sm1.av2.at0.sh2.rt4626.rc0.basic.stream/chunklist_w872910226.m3u8
+https://sloppyjoes.com/cam-bar/
 #EXTINF:-1 group-title="Webcams" tvg-logo="",Sloppy Joes Crowd Cam
-https://use01-smr05-relay.ozolio.com/hls-live/_definst_/relay01.eboldpj.fd0.sm1.av2.at0.sh2.rt4626.rc0.basic.stream/chunklist_w775301904.m3u8
+https://sloppyjoes.com/conch-shell-cam/
 #EXTINF:-1 group-title="Webcams" tvg-logo="",Sloppy Joes Crowd Cam 2
-https://use01-smr05-relay.ozolio.com/hls-live/_definst_/relay01.vtcldi6.fd0.sm1.av2.at0.sh2.rt4626.rc0.basic.stream/chunklist_w964999907.m3u8
+https://liveduvalstreet.com/
 #EXTINF:-1 group-title="Webcams" tvg-logo="",Irish Kevins Stage Cam
-https://use01-smr05-relay.ozolio.com/hls-live/_definst_/relay01.fahmdnv.fd0.sm1.av2.at0.sh2.rt4626.rc0.basic.stream/chunklist_w488258080.m3u8
+https://irishkevins.com/stage-cam/
+#EXTINF:-1 group-title="Webcams" tvg-logo="",Irish Kevins Street Cam
+https://irishkevins.com/street-cam/
 #EXTINF:-1 group-title="Webcams" tvg-logo="",Hogs Breath Bar Cam
 https://55507e0501d25.streamlock.net/live-audio/hogsbreath2-audio.stream/chunklist_w1242412366.m3u8
 #EXTINF:-1 group-title="Webcams" tvg-logo="",Hogs Breath Stage Cam
