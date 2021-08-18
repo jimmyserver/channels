@@ -28,17 +28,17 @@ http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8
 #EXTINF:-1 group-title="Ελληνικα" tvg-logo="https://i.imgur.com/hzaXhNV.png",NG TV
 https://live.streams.ovh/NGradio/NGradio/playlist.m3u8
 #EXTINF:-1 group-title="Webcams" tvg-logo="",Sloppy Joes Stage Cam
-https://sloppyjoes.com/cam_lp/
+https://sloppyjoes.com/cam_lp
 #EXTINF:-1 group-title="Webcams" tvg-logo="",Sloppy Joes Bar Cam
-https://sloppyjoes.com/cam-bar/
+https://sloppyjoes.com/cam-bar
 #EXTINF:-1 group-title="Webcams" tvg-logo="",Sloppy Joes Crowd Cam
-https://sloppyjoes.com/conch-shell-cam/
+https://sloppyjoes.com/conch-shell-cam
 #EXTINF:-1 group-title="Webcams" tvg-logo="",Sloppy Joes Crowd Cam 2
-https://liveduvalstreet.com/
+https://liveduvalstreet.com
 #EXTINF:-1 group-title="Webcams" tvg-logo="",Irish Kevins Stage Cam
-https://irishkevins.com/stage-cam/
+https://irishkevins.com/stage-cam
 #EXTINF:-1 group-title="Webcams" tvg-logo="",Irish Kevins Street Cam
-https://irishkevins.com/street-cam/
+https://irishkevins.com/street-cam
 #EXTINF:-1 group-title="Webcams" tvg-logo="",Hogs Breath Bar Cam
 https://55507e0501d25.streamlock.net/live-audio/hogsbreath2-audio.stream/chunklist_w1242412366.m3u8
 #EXTINF:-1 group-title="Webcams" tvg-logo="",Hogs Breath Stage Cam
