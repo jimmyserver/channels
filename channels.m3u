@@ -18,9 +18,9 @@ http://ert-live-bcbs15228.siliconweb.com/media/ert_3/ert_3_2Mbps.m3u8
 #EXTINF:-1 group-title="Ελληνικα" tvg-name="RIK Sat" tvg-logo="http://greektv.pbworks.com/w/file/fetch/52186869/RikSat.png",RIK SAT
 http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
 #EXTINF:-1 group-title="Ελληνικα" tvg-name="Euronews Greek" tvg-logo="https://i.imgur.com/4EvDoaG.png",EURONEWS
-https://www.dailymotion.com/video/x2j7kha
+https://www.dailymotion.com/embed/video/x2j7kha#tab_embed.m3u8
 #EXTINF:-1 group-title="Ελληνικα" tvg-name="Star Κεντρικής Ελλάδας" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020317/STAR_K.E.png",STAR K.E.
-https://www.dailymotion.com/video/xqjey2
+https://www.dailymotion.com/embed/video/xqjey2#tab_embed.m3u8
 #EXTINF:-1 group-title="Ελληνικα" tvg-name="ONE Channel" tvg-logo="https://i.imgur.com/yHiFVKK.jpg",ONE TV HD
 https://streaming.onetv.gr/show/onetv_hd720/index.m3u8
 #EXTINF:-1 group-title="Ελληνικα" tvg-logo="https://i.imgur.com/ErFj6rR.png",XPLORE
